@@ -65,6 +65,7 @@ def main():
         if input == 'q':
             break
         else:
+            shared.score = 0
             shared.game_status = 'PLAY'
     return 0
 

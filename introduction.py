@@ -10,7 +10,7 @@ def introduction():
             nice_print("Do you need instructions (Y/N)", 0.01)
             user_input = str(input("\n"))
             if user_input == "y" or user_input == "Y":
-                nice_print("\nUSE ARROWS FOR CONTROL AND SPACE TO SHOOT\n")
+                nice_print("\nUSE w, a, s, d FOR CONTROL AND space TO SHOOT\n")
                 time.sleep(.5)
                 nice_print("\nMISSION: AVOID ALL COMETS AND GET HOME SAFELY\n\n")
                 time.sleep(.5)
