@@ -15,3 +15,7 @@ $ cd Blastar-2023
 $ pip install -r requirements.txt
 $ python main.py
 ```
+
+<h3></h3>
+Or
+<a href="https://drive.google.com/file/d/19RKrrJwB6K6MKhdBMhLNTqigEL4kyC3C/view?usp=share_link">https://drive.google.com/file/d/19RKrrJwB6K6MKhdBMhLNTqigEL4kyC3C/view?usp=share_link</a>
