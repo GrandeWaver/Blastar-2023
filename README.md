@@ -2,4 +2,4 @@
 Game in cmd console
 
 What the game looks like:
-<a target="_blank" href="https://youtu.be/Htkd8iFDURU">https://youtu.be/Htkd8iFDURU</a>
+<a href="https://youtu.be/Htkd8iFDURU" target="_blank">https://youtu.be/Htkd8iFDURU</a>
