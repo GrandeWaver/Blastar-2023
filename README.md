@@ -17,5 +17,5 @@ $ python main.py
 ```
 
 <h3></h3>
-Or
+Or download from google drive
 <a href="https://drive.google.com/file/d/19RKrrJwB6K6MKhdBMhLNTqigEL4kyC3C/view?usp=share_link">https://drive.google.com/file/d/19RKrrJwB6K6MKhdBMhLNTqigEL4kyC3C/view?usp=share_link</a>
